@@ -8,11 +8,11 @@
 
 # sent_id = charbased__2
 # text = 這 還 用 說 ？
-1	這	這	DET	_	_	3	subj	_	_
-2	還	還	ADV	_	_	3	mod	_	_
-3	用	用	AUX	_	_	0	root	_	_
-4	說	說	VERB	_	_	3	comp:aux	_	_
-5	？	？	PUNCT	_	_	3	punct	_	_
+1	這	_	_	_	_	_	_	_	_
+2	還	_	_	_	_	_	_	_	_
+3	用	_	_	_	_	_	_	_	_
+4	說	_	_	_	_	_	_	_	_
+5	？	_	_	_	_	_	_	_	_
 
 # sent_id = charbased__3
 # text = 事 情 順 利 了 嗎 ？
@@ -26,31 +26,31 @@
 
 # sent_id = charbased__4
 # text = 他 的 度 量 很 狹 小 。
-1	他	_	_	_	_	_	_	_	_
-2	的	_	_	_	_	_	_	_	_
-3	度	_	_	_	_	_	_	_	_
-4	量	_	_	_	_	_	_	_	_
-5	很	_	_	_	_	_	_	_	_
-6	狹	_	_	_	_	_	_	_	_
-7	小	_	_	_	_	_	_	_	_
-8	。	_	_	_	_	_	_	_	_
+1	他	他	PRON	_	Person=3	2	comp:obj	_	_
+2	的	的	PART	_	Case=Gen	3	mod	_	_
+3	度	度	NOUN	_	_	6	/m	_	_
+4	量	量	NOUN	_	_	3	/m	_	_
+5	很	很	ADV	_	_	6	mod	_	_
+6	狹	狹	ADJ	_	_	0	root	_	_
+7	小	小	ADJ	_	_	6	/m	_	_
+8	。	。	PUNCT	_	_	6	punct	_	_
 
 # sent_id = charbased__5
 # text = 伴 娘 比 新 娘 美 。 比 喻 喧 賓 奪 主 。
-1	伴	_	_	_	_	_	_	_	_
-2	娘	_	_	_	_	_	_	_	_
-3	比	_	_	_	_	_	_	_	_
-4	新	_	_	_	_	_	_	_	_
-5	娘	_	_	_	_	_	_	_	_
-6	美	_	_	_	_	_	_	_	_
-7	。	_	_	_	_	_	_	_	_
-8	比	_	_	_	_	_	_	_	_
-9	喻	_	_	_	_	_	_	_	_
-10	喧	_	_	_	_	_	_	_	_
-11	賓	_	_	_	_	_	_	_	_
-12	奪	_	_	_	_	_	_	_	_
-13	主	_	_	_	_	_	_	_	_
-14	。	_	_	_	_	_	_	_	_
+1	伴	伴	NOUN	_	_	6	subj	_	_
+2	娘	娘	NOUN	_	_	1	/m	_	_
+3	比	比	ADP	_	_	6	comp:obl	_	_
+4	新	新	ADJ	_	_	5	mod	_	_
+5	娘	娘	NOUN	_	_	3	comp:obj	_	_
+6	美	美	ADJ	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+8	比	比	VERB	_	_	6	parataxis	_	_
+9	喻	喻	VERB	_	_	8	/m	_	_
+10	喧	喧	NOUN	_	_	8	comp:obj	_	_
+11	賓	賓	NOUN	_	_	10	/m	_	_
+12	奪	奪	VERB	_	_	10	comp:obj	_	_
+13	主	主	NOUN	_	_	12	comp:obj	_	_
+14	。	。	PUNCT	_	_	6	punct	_	_
 
 # sent_id = charbased__6
 # text = 這 陣 子 真 倒 楣 。
