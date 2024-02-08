@@ -44,7 +44,7 @@
 5	娘	娘	NOUN	_	_	3	comp:obj	_	_
 6	美	美	ADJ	_	_	0	root	_	_
 7	。	。	PUNCT	_	_	6	punct	_	_
-8	比	比	VERB	_	_	6	parataxis	_	_
+8	比	比	VERB	_	_	6	discourse	_	_
 9	喻	喻	VERB	_	_	8	/m	_	_
 10	喧	喧	NOUN	_	_	8	comp:obj	_	_
 11	賓	賓	NOUN	_	_	10	/m	_	_
