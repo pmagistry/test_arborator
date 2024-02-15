@@ -8,11 +8,11 @@
 
 # sent_id = charbased__2
 # text = 這 還 用 說 ？
-1	這	這	DET	_	_	3	subj	_	_
-2	還	還	ADV	_	_	3	mod	_	_
-3	用	用	AUX	_	_	0	root	_	_
-4	說	說	VERB	_	_	3	comp:aux	_	_
-5	？	？	PUNCT	_	_	3	punct	_	_
+1	這	_	PRON	_	_	3	subj	_	_
+2	還	_	ADV	_	_	3	mod	_	_
+3	用	_	AUX	_	_	0	root	_	_
+4	說	_	VERB	_	_	3	comp:aux	_	_
+5	？	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = charbased__3
 # text = 事 情 順 利 了 嗎 ？
@@ -28,7 +28,7 @@
 # text = 他 的 度 量 很 狹 小 。
 1	他	他	PRON	_	Person=3	2	comp:obj	_	_
 2	的	的	PART	_	Case=Gen	3	mod	_	_
-3	度	度	NOUN	_	_	6	/m	_	_
+3	度	度	NOUN	_	_	6	subj	_	_
 4	量	量	NOUN	_	_	3	/m	_	_
 5	很	很	ADV	_	_	6	mod	_	_
 6	狹	狹	ADJ	_	_	0	root	_	_
@@ -40,87 +40,87 @@
 1	伴	伴	NOUN	_	_	6	subj	_	_
 2	娘	娘	NOUN	_	_	1	/m	_	_
 3	比	比	ADP	_	_	6	comp:obl	_	_
-4	新	新	ADJ	_	_	5	mod	_	_
+4	新	新	ADJ	_	_	5	/m	_	_
 5	娘	娘	NOUN	_	_	3	comp:obj	_	_
 6	美	美	ADJ	_	_	0	root	_	_
 7	。	。	PUNCT	_	_	6	punct	_	_
-8	比	比	VERB	_	_	6	discourse	_	_
+8	比	比	VERB	_	_	6	parataxis	_	_
 9	喻	喻	VERB	_	_	8	/m	_	_
-10	喧	喧	NOUN	_	_	8	comp:obj	_	_
-11	賓	賓	NOUN	_	_	10	/m	_	_
-12	奪	奪	VERB	_	_	10	comp:obj	_	_
-13	主	主	NOUN	_	_	12	comp:obj	_	_
+10	喧	喧	NOUN	_	_	11	/m	_	_
+11	賓	賓	NOUN	_	_	12	/m	_	_
+12	奪	奪	VERB	_	_	8	comp:obj	_	_
+13	主	主	NOUN	_	_	12	/m	_	_
 14	。	。	PUNCT	_	_	6	punct	_	_
 
 # sent_id = charbased__6
 # text = 這 陣 子 真 倒 楣 。
-1	這	_	_	_	_	_	_	_	_
-2	陣	_	_	_	_	_	_	_	_
-3	子	_	_	_	_	_	_	_	_
-4	真	_	_	_	_	_	_	_	_
-5	倒	_	_	_	_	_	_	_	_
-6	楣	_	_	_	_	_	_	_	_
-7	。	_	_	_	_	_	_	_	_
+1	這	這	DET	_	_	2	det	_	_
+2	陣	陣	NOUN	_	_	5	subj	_	_
+3	子	子	NOUN	_	_	2	/m	_	_
+4	真	真	ADV	_	_	5	mod	_	_
+5	倒	倒	VERB	_	_	0	root	_	_
+6	楣	楣	NOUN	_	_	5	/m	_	_
+7	。	。	PUNCT	_	_	5	punct	_	_
 
 # sent_id = charbased__7
 # text = 你 媽 媽 正 想 到 你 而 提 起 你 。
-1	你	_	_	_	_	_	_	_	_
-2	媽	_	_	_	_	_	_	_	_
-3	媽	_	_	_	_	_	_	_	_
-4	正	_	_	_	_	_	_	_	_
-5	想	_	_	_	_	_	_	_	_
-6	到	_	_	_	_	_	_	_	_
-7	你	_	_	_	_	_	_	_	_
-8	而	_	_	_	_	_	_	_	_
-9	提	_	_	_	_	_	_	_	_
-10	起	_	_	_	_	_	_	_	_
-11	你	_	_	_	_	_	_	_	_
-12	。	_	_	_	_	_	_	_	_
+1	你	你	PRON	_	Person=2	2	mod	_	_
+2	媽	媽	NOUN	_	_	5	subj	_	_
+3	媽	媽	NOUN	_	_	2	conj:redup/m	_	_
+4	正	正	ADV	_	_	5	mod	_	_
+5	想	想	VERB	_	_	0	root	_	_
+6	到	到	VERB	_	_	5	comp:res	_	_
+7	你	你	PRON	_	Person=2	6	comp:obj	_	_
+8	而	而	CCONJ	_	_	9	cc	_	_
+9	提	提	VERB	_	_	5	conj	_	_
+10	起	起	VERB	_	_	9	comp:dir	_	_
+11	你	你	PRON	_	Person=2	9	comp:obj	_	_
+12	。	。	PUNCT	_	_	5	punct	_	_
 
 # sent_id = charbased__8
 # text = 這 下 子 事 情 難 處 理 了 。
-1	這	_	_	_	_	_	_	_	_
-2	下	_	_	_	_	_	_	_	_
-3	子	_	_	_	_	_	_	_	_
-4	事	_	_	_	_	_	_	_	_
-5	情	_	_	_	_	_	_	_	_
-6	難	_	_	_	_	_	_	_	_
-7	處	_	_	_	_	_	_	_	_
-8	理	_	_	_	_	_	_	_	_
-9	了	_	_	_	_	_	_	_	_
-10	。	_	_	_	_	_	_	_	_
+1	這	_	DET	_	_	2	det	_	_
+2	下	_	NOUN	_	_	7	mod	_	_
+3	子	_	NOUN	_	_	2	/m	_	_
+4	事	_	NOUN	_	_	7	subj	_	_
+5	情	_	NOUN	_	_	4	/m	_	_
+6	難	_	ADV	_	_	7	mod	_	_
+7	處	_	VERB	_	_	0	root	_	_
+8	理	_	VERB	_	_	7	/m	_	_
+9	了	_	PART	_	_	7	discourse	_	_
+10	。	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = charbased__9
 # text = 他 又 在 找 碴 了 。
-1	他	_	_	_	_	_	_	_	_
-2	又	_	_	_	_	_	_	_	_
-3	在	_	_	_	_	_	_	_	_
-4	找	_	_	_	_	_	_	_	_
-5	碴	_	_	_	_	_	_	_	_
-6	了	_	_	_	_	_	_	_	_
-7	。	_	_	_	_	_	_	_	_
+1	他	_	PRON	_	_	3	subj	_	_
+2	又	_	ADV	_	_	3	mod	_	_
+3	在	_	AUX	_	_	0	root	_	_
+4	找	_	VERB	_	_	3	comp:aux	_	_
+5	碴	_	NOUN	_	_	4	/m	_	_
+6	了	_	PART	_	_	3	discourse	_	_
+7	。	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = charbased__10
 # text = 他 是 我 們 同 宗 的 。
-1	他	_	_	_	_	_	_	_	_
-2	是	_	_	_	_	_	_	_	_
-3	我	_	_	_	_	_	_	_	_
-4	們	_	_	_	_	_	_	_	_
-5	同	_	_	_	_	_	_	_	_
-6	宗	_	_	_	_	_	_	_	_
-7	的	_	_	_	_	_	_	_	_
-8	。	_	_	_	_	_	_	_	_
+1	他	他	PRON	_	Person=3	2	subj	_	_
+2	是	是	AUX	_	_	0	root	_	_
+3	我	我	PRON	_	Number=Plur|Person=1	5	subj	_	_
+4	們	們	PRON	_	Number=Plur|Person=1	3	/m	_	_
+5	同	同	ADJ	_	_	7	comp:obj	_	_
+6	宗	宗	ADJ	_	_	5	/m	_	_
+7	的	的	PART	_	Case=Gen	2	comp:pred	_	_
+8	。	。	PUNCT	_	_	2	punct	_	_
 
 # sent_id = charbased__11
 # text = 一 句 話 傳 來 傳 去 。
-1	一	_	_	_	_	_	_	_	_
-2	句	_	_	_	_	_	_	_	_
-3	話	_	_	_	_	_	_	_	_
-4	傳	_	_	_	_	_	_	_	_
-5	來	_	_	_	_	_	_	_	_
-6	傳	_	_	_	_	_	_	_	_
-7	去	_	_	_	_	_	_	_	_
-8	。	_	_	_	_	_	_	_	_
+1	一	_	NUM	_	_	2	mod	_	_
+2	句	_	NOUN	_	_	3	clf	_	_
+3	話	_	NOUN	_	_	4	subj	_	_
+4	傳	_	VERB	_	_	0	root	_	_
+5	來	_	VERB	_	_	4	comp:dir	_	_
+6	傳	_	VERB	_	_	4	conj:redup	_	_
+7	去	_	VERB	_	_	6	comp:dir	_	_
+8	。	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = charbased__12
 # text = 他 幫 別 人 照 顧 小 孩 。
@@ -798,21 +798,21 @@
 
 # sent_id = charbased__55
 # text = 他 很 有 福 氣 ， 兒 子 媳 婦 都 很 孝 順 。
-1	他	他	PRON	_	Person=3	3	subj	_	_
-2	很	很	ADV	_	_	3	mod	_	_
-3	有	有	VERB	_	_	0	root	_	_
-4	福	福	NOUN	_	_	3	comp:obj	_	_
-5	氣	氣	NOUN	_	_	4	/m	_	_
-6	，	，	PUNCT	_	_	13	punct	_	_
-7	兒	兒	NOUN	_	_	13	subj	_	_
-8	子	子	NOUN	_	_	7	/m	_	_
-9	媳	媳	NOUN	_	_	7	conj	_	_
-10	婦	婦	NOUN	_	_	9	/m	_	_
-11	都	都	ADV	_	_	13	mod	_	_
-12	很	很	ADV	_	_	13	mod	_	_
-13	孝	孝	ADJ	_	_	3	parataxis	_	_
-14	順	順	ADJ	_	_	13	/m	_	_
-15	。	。	PUNCT	_	_	3	punct	_	_
+1	他	_	PRON	_	_	3	subj	_	_
+2	很	_	ADV	_	_	3	mod	_	_
+3	有	_	VERB	_	_	0	root	_	_
+4	福	_	NOUN	_	_	3	comp:obj	_	_
+5	氣	_	NOUN	_	_	4	/m	_	_
+6	，	_	PUNCT	_	_	13	punct	_	_
+7	兒	_	NOUN	_	_	13	subj	_	_
+8	子	_	NOUN	_	_	7	/m	_	_
+9	媳	_	NOUN	_	_	7	conj:coord	_	_
+10	婦	_	NOUN	_	_	9	/m	_	_
+11	都	_	ADV	_	_	13	mod	_	_
+12	很	_	ADV	_	_	13	mod	_	_
+13	孝	_	VERB	_	_	3	parataxis	_	_
+14	順	_	VERB	_	_	13	/m	_	_
+15	。	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = charbased__56
 # text = 雖 然 你 們 是 好 朋 友 ， 也 不 能 太 隨 便 。
