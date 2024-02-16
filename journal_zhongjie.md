@@ -38,5 +38,9 @@ Il est important de noter que le chinois n'a pas de système grammatical aussi c
 ## Aspect accompli
 L'accompli s'exprime à l'aide de certains caractères comme les particules "了", "过" ou les verbes comme "完". Ces caractères partagent le point commun qu'ils indiquent tous la fin d'une action.
 
-## Classficateur (clf)
-L'une des caractéristiques des langues chinoises est qu'elles possèdent les différents classificateurs tels que "个", "句", "辆". Les classificateurs sont liés avec leurs gouverneurs (souvent les noms) par la relation de [clf] : GOV -[clf]-> classificateur; classificateur -[mod]-> NUM.
+## Classifieur (clf)
+L'une des caractéristiques des langues chinoises est qu'elles possèdent les différents classifieurs tels que "个", "句", "辆". Les classifieurs sont liés avec leurs gouverneurs (souvent les noms) par la relation de [clf] : GOV -[clf]-> classifieur; classifieur -[mod]-> NUM.
+
+## Expression figé
+Étant donné l'utilisation courante d'expressions figées (成语) dans les langues chinoises modernes, qui sont héritées du chinois classique, nous allons traiter chaque expression comme un mot entier non segmentable avec une relation de "/m" entre chaque caractère au sein de la même expression.
+大快人心 : GOV -> "大" ; "大" -[/m]-> "快", "快" -[/m]-> "人"; "人" -[/m]-> "心".
