@@ -9,3 +9,7 @@ Comment :孝顺是 adj 还是 verb ？
 
 3 阿 英 很 苦 命 ， 從 小 父 母 就 過 世 了 。 
 “从” 和“小” 的关系是 com:obj 还是 /m ? “从小” 和 “过世” 的关系是 mod 还是com:obl? 
+
+18/02/2024
+
+1 when translating mandrin to teochew, there are cases where a sound in teochew does not match any character on http://www.czyzd.com, such as particles.
