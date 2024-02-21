@@ -66,5 +66,31 @@ Commencer à annoter les premières phrases
 
 - 12 他 幫 別 人 照 顧 小 孩 。
 
-  Q : 这里应该有个从句。我们可以把它当作个从句典范。
+  Q : 这里应该有个从句。我们可以把它当作个从句典范。*这儿就没有从句*
+
+# 21/02/2024
+
+## Remarques :
+
+- "xx的yy"一般“的”是mod, xx是“的”的comp:obj.
+
+
+## Issues :
+
+- 30 我 們 兩 個 錯 身 而 過 ， 沒 有 遇 到 。36 他 們 兩 個 人 平 常 最 喜 歡 鬥 嘴 。
+
+  Q : “他们”，“两个”，这两个词之间是mod还是appos? (我倾向appos)
+
+- 41 你 不 要 掛 念 ， 我 會 趕 快 回 來 。
+
+  Q: parataxis:new n'existe pas.
+
+- 44 自 由 的 生 活 是 人 人 都 想 要 過 的 。
+
+  Q: Je pense qu'il s'agit d'une clivée (structure absente dans guidelines). J'ai un peu de mal à comprendre, annoter et chercher cette structure dans grewmatch.
+
+- 45 他 們 搬 家 之 後 ， 我 們 就 比 較 少 去 拜 訪 。
+
+  Q: Je pense que c'est une subordonnée avec "就" (regarder guidelines sur "如果...就..."), mais comme il n'y a pas de "如果", j'ai du mal à déterminer la relation entre "就" et la subordonnée (la phrase d'avant).
+  
 
