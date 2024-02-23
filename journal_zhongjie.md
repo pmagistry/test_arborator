@@ -44,3 +44,16 @@ L'une des caractéristiques des langues chinoises est qu'elles possèdent les di
 ## Expression figé
 Étant donné l'utilisation courante d'expressions figées (成语) dans les langues chinoises modernes, qui sont héritées du chinois classique, nous allons traiter chaque expression comme un mot entier non segmentable avec une relation de "/m" entre chaque caractère au sein de la même expression.
 大快人心 : GOV -> "大" ; "大" -[/m]-> "快", "快" -[/m]-> "人"; "人" -[/m]-> "心".
+
+# Semaine 19/02
+## La réunion du mardi 20/02
+Nous sommes en vacances scolaires pendant cette semaine, donc le planning de réservation de salles n'est pas comme d'habitude. Notre salle habituelle n'est pas réservée. Avec un retard de 30 minutes, nous avons commencé la réunion dans une salle de groupe au sous sol de la BULAC. 
+
+Pour cette semaine, chacun chacune a reçu 100 phrases à annoter. Moi personnellement, j'assume 100 phrases aléatoires du corpus mandarin. J'ai rencontré du problème lors de l'annotation pour les constructions contenant "才", par exemple, "工 作 要 從 哪 裡 著 手 才 好 ？ ". Ici, "才好" semble avoir un rôle plus éloigné que la racine par rapport à d'autres composants. De ce fait, "才好" entretient en réalité la relation "parataxis" avec la racine. Dans "才好", la tête est "好" et il y a une relation "modifieur" de "好" à "才" : "好" -[mod]-> "才".
+
+Après la réunion, j'ai fini l'annotation sur 50 phrases.
+## La réunion du jeudi 22/02
+La réunion n'a pas eu lieu. On est restés chacun chez soi. J'ai fini l'annotation sur le reste des phrases. J'ai rencontré deux problèmes que j'ai partagés dans les Issues de Github. 
+Voici les liens vers les questions :
+- https://github.com/pmagistry/test_arborator/issues/11
+- https://github.com/pmagistry/test_arborator/issues/12
