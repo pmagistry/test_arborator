@@ -2,26 +2,35 @@
 # text = H u a g i
 # sent_id = charbased__2
 # text = 這 還 用 說 ？
+         zia2 hah4 dioh4 dan3
 # sent_id = charbased__3
 # text = 事 情 順 利 了 嗎 ？
+        Gian6 se7 oi3 sung6 li6 bhoi2
 # sent_id = charbased__4
 # text = 他 的 度 量 很 狹 小 。
+         i1 gai7 dou6 deng5 hoh4 oih8 soi3
 # sent_id = charbased__5
 # text = 伴 娘 比 新 娘 美 。 比 喻 喧 賓 奪 主 。
 # sent_id = charbased__6
 # text = 這 陣 子 真 倒 楣 。
+       zê2 zam3 gian2 guê2 suê1
 # sent_id = charbased__7
 # text = 你 媽 媽 正 想 到 你 而 提 起 你 。
+         nian2 ma5 ziam3 sion6 dioh3 le3 zu3 ti5 pu5 dioh4 le3
 # sent_id = charbased__8
 # text = 這 下 子 事 情 難 處 理 了 。
+        zi2 e7 gian3 se7 zu3 oh8 muêh8 lao3
 # sent_id = charbased__9
 # text = 他 又 在 找 碴 了 。
+        i1 iu6 do6 cuê3 uê7
 # sent_id = charbased__10
 # text = 他 是 我 們 同 宗 的 。
 # sent_id = charbased__11
 # text = 一 句 話 傳 來 傳 去 。
+         gu3 uê7 tuang5 lai5 tuang5 ke3
 # sent_id = charbased__12
 # text = 他 幫 別 人 照 顧 小 孩 。
+         i1 sio1 hu6 bag8 nang7 zio3 gu3 nou5 gian2
 # sent_id = charbased__13
 # text = 熱 臉 貼 人 冷 屁 股 。
 # sent_id = charbased__14
@@ -38,7 +47,7 @@
 # text = 他 們 兩 個 人 已 經 講 和 了 。
 # sent_id = charbased__20
 # text = 小 孩 子 都 比 較 怕 生 。
- nou5 gia2 nong3 liao3 rêng7 cên1 hung7
+        nou5 gian2 nong3 liao3 rêng7 cên1 hung7
 # sent_id = charbased__21
 # text = 不 可 以 說 不 贏 人 家 就 要 翻 桌 子 。
 # sent_id = charbased__22
