@@ -38,6 +38,7 @@
 # text = 他 們 兩 個 人 已 經 講 和 了 。
 # sent_id = charbased__20
 # text = 小 孩 子 都 比 較 怕 生 。
+ nou5 gia2 nong3 liao3 rêng7 cên1 hung7
 # sent_id = charbased__21
 # text = 不 可 以 說 不 贏 人 家 就 要 翻 桌 子 。
 # sent_id = charbased__22
