@@ -73,7 +73,9 @@ Commencer à annoter les premières phrases
 ## Remarques :
 
 - "xx的yy"一般“的”是mod, xx是“的”的comp:obj.
-
+- "来+verb"有两种关系：compound:svc和comp:obj。要根据“来”是不是个动作来判断。*但为什么来不是助动词呢？*
+- "怎么+verb"，“怎么”是verb的mod。
+- 
 
 ## Issues :
 
@@ -87,10 +89,20 @@ Commencer à annoter les premières phrases
 
 - 44 自 由 的 生 活 是 人 人 都 想 要 過 的 。
 
-  Q: Je pense qu'il s'agit d'une clivée (structure absente dans guidelines). J'ai un peu de mal à comprendre, annoter et chercher cette structure dans grewmatch.
+  Q: Regarder send_id = 3470 dans grewmatch.
 
 - 45 他 們 搬 家 之 後 ， 我 們 就 比 較 少 去 拜 訪 。
 
   Q: Je pense que c'est une subordonnée avec "就" (regarder guidelines sur "如果...就..."), mais comme il n'y a pas de "如果", j'ai du mal à déterminer la relation entre "就" et la subordonnée (la phrase d'avant).
+
+- 65 阿 英 很 苦 命 ， 從 小 父 母 就 過 世 了 。
+
+  Q: “从小”应该是“阿英”的mod？总之肯定不是“父母”的mod。
+
+- 78 這 點 小 事 去 麻 煩 他
+
+  Q: 这个句子的主语是啥？
+
+
   
 
