@@ -10,14 +10,14 @@ taigi__13我 已 經 輸 甲 貼 底 矣
 -charbased__67 我 和 別 人 說 話 ， 你 別 在 一 旁 插 嘴 。 
 
 -charbased__80＝他 的 媽 媽 反 對 他 們 交 往 ， 他 竟 然 得 了 相 思 病 。
- 反 對 為單一詞組。
+ 反對 為單一詞組。
 
 
 *0227* 
 
-8-"伊是阮祧'仔'內的" 
+taigi-3-2-8-"伊是阮祧'仔'內的" 
 
-19- "細漢囡仔"
+taigi-3-2-19- "細漢'囡仔'攏較驚生份"
 
 Xinlei et moi ont des problèmes de suffix "仔" ici
 selon Moedict taiwanais, 
