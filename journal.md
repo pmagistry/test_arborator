@@ -28,3 +28,10 @@ ressource: https://www.moedict.tw/'仔
 
 il n'y a qu'une prase de "仔" dans grew-match et c'est "牛仔褲", pas de suffix "仔"c omme Taiwanais donc j'essayé de cherché "哪兒"，兒 c'est aussi un suffix. Il marque comme un /m et c'est pas copm:obj  donc je suis pas très sûr. 
 
+
+*0229*
+
+taigi-3-2-22-這擺的機會是‘拄䢢’拄䢢
+
+charbased__24-東西到嘴邊了才掉下去
+pourquoi root est sur l'aux "到"
