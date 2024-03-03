@@ -46,7 +46,7 @@ L'une des caractéristiques des langues chinoises est qu'elles possèdent les di
 大快人心 : GOV -> "大" ; "大" -[/m]-> "快", "快" -[/m]-> "人"; "人" -[/m]-> "心".
 
 # Semaine 19/02
-## La réunion du mardi 20/02
+## La réunion du lundi 19/02
 Nous sommes en vacances scolaires pendant cette semaine, donc le planning de réservation de salles n'est pas comme d'habitude. Notre salle habituelle n'est pas réservée. Avec un retard de 30 minutes, nous avons commencé la réunion dans une salle de groupe au sous sol de la BULAC. 
 
 Pour cette semaine, chacun chacune a reçu 100 phrases à annoter. Moi personnellement, j'assume 100 phrases aléatoires du corpus mandarin. J'ai rencontré du problème lors de l'annotation pour les constructions contenant "才", par exemple, "工 作 要 從 哪 裡 著 手 才 好 ？ ". Ici, "才好" semble avoir un rôle plus éloigné que la racine par rapport à d'autres composants. De ce fait, "才好" entretient en réalité la relation "parataxis" avec la racine. Dans "才好", la tête est "好" et il y a une relation "modifieur" de "好" à "才" : "好" -[mod]-> "才".
@@ -57,3 +57,18 @@ La réunion n'a pas eu lieu. On est restés chacun chez soi. J'ai fini l'annotat
 Voici les liens vers les questions :
 - https://github.com/pmagistry/test_arborator/issues/11
 - https://github.com/pmagistry/test_arborator/issues/12
+
+# Semaine 26/02
+## La réunion du lundi 26/02
+Nous nous sommes regroupés dans la salle d'habitude sans la présence du tuteur.
+## La réunion du jeudi 29/02
+Nous avons traité les questions posés dans "issues" de github. La première question est la relation entre "我们" et "两个" ou entre "我们" et "两个人". Dans le premier cas, nous avons conclut 我们 -[mod]-> 两个 et 我们-[conj:appos]->两个人 pour le deuxième. Concernant les cas comme dans "我们这个月的生产目标要比上个月的数量加倍", "我们" est dislocated de "要".
+
+La question suivante concerne le cas de "我要搭下一班车". Ici, "下" peut être considéré comme un déterminant ou un nom et il est le modifieur de "班".
+
+Ensuite, dans la phrase "有 許 多 過 去 的 事 情 ， 我 都 忘 記 了 。", "有" est le complément clivé de "忘记" parce que le partie de "有" est mise en avant. 
+
+Une autre phrase compliquée est la phrase sent 336 :
+https://private-user-images.githubusercontent.com/145543123/309008325-27678cab-4df1-49a7-8c4c-7b39a0cc35ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0NzkwOTUsIm5iZiI6MTcwOTQ3ODc5NSwicGF0aCI6Ii8xNDU1NDMxMjMvMzA5MDA4MzI1LTI3Njc4Y2FiLTRkZjEtNDlhNy04YzRjLTdiMzlhMGNjMzVmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwM1QxNTEzMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOGRiYTY2OTQ2ODhlNjkwNjQ0OWM2NmYyNTg0Zjc1NWJhODRmN2U1YTBlNGY3YTE0NGM0ZGI1ZTE2NGYzYjFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3tYXOb3OXvNyUCRqCeoRmh8HcOVzqEYLTIJQ541qWcQ
+Ici, "让" est la racine de la phrase. Dans "让人听", "人" et "听" sont tous compléments d'objet de "让". "舒服" est le compound:svc de 听 parce que ce sont deux actions qui s'enchaîenent. "口气很粗暴" est le parataxis de "让" et "他说话" est le parataxis de "口气很粗暴".
+
