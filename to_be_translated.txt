@@ -25,6 +25,7 @@
         i1 iu6 do6 cuê3 uê7
 # sent_id = charbased__10
 # text = 他 是 我 們 同 宗 的 。
+
 # sent_id = charbased__11
 # text = 一 句 話 傳 來 傳 去 。
          gu3 uê7 tuang5 lai5 tuang5 ke3
@@ -33,18 +34,22 @@
          i1 sio1 hu6 bag8 nang7 zio3 gu3 nou5 gian2
 # sent_id = charbased__13
 # text = 熱 臉 貼 人 冷 屁 股 。
+
 # sent_id = charbased__14
 # text = 我 已 經 輸 到 底 了 。
        ua2 in2 gêng1 su1  toh6  liao3 
 # sent_id = charbased__15
 # text = 那 些 帳 就 算 扯 平 了 。
+
 # sent_id = charbased__16
 # text = 這 回 我 豁 出 去 跟 他 拚 了 。
         zi2 e7 ua2 sên1 si2 nong6 ain3 gah4 i1 bian3 ke3
 # sent_id = charbased__17
 # text = 做 長 輩 要 有 長 輩 的 樣 子 。
+
 # sent_id = charbased__18
 # text = 等 東 西 很 難 等 到 ， 等 人 容 易 變 老 。
+
 # sent_id = charbased__19
 # text = 他 們 兩 個 人 已 經 講 和 了 。
         i1 nang5 no3 nang5 hag8 ho2 lao3
@@ -53,34 +58,49 @@
         nou5 gian2 nong3 liao3 rêng7 cên1 hung7
 # sent_id = charbased__21
 # text = 不 可 以 說 不 贏 人 家 就 要 翻 桌 子 。
+
 # sent_id = charbased__22
 # text = 事 情 怎 麼 會 變 成 這 種 情 況 ？
+         gian3 se7 zo3 ni1 oi6 biang3 zo3 zê2.
 # sent_id = charbased__23
 # text = 這 次 的 機 會 是 碰 巧 。
+
 # sent_id = charbased__24
 # text = 東 西 到 嘴 邊 了 才 掉 下 去 。 意 同 「 煮 熟 的 鴨 子 飛 了 。 」
+         muêh5 gian6 gao2 cui3 bin1 kêh1 ga1 laoh8 ke3. i3 se3 si3 ze2 sêg8 gai7 ah4 kêh1 buê1 ke3.
 # sent_id = charbased__25
 # text = 工 作 要 從 哪 裡 著 手 才 好 ？
+         kang1 kuê3 dioh4 do6 di7 go3 zoh4 ki2 ho2?
 # sent_id = charbased__26
 # text = 他 還 沒 有 說 完 ， 不 要 搶 話 。
+         i1 han2 bhue7 dan8 ho2, mai3 diam3 
 # sent_id = charbased__27
 # text = 你 這 麼 做 有 點 划 不 來 。
+         
 # sent_id = charbased__28
 # text = 他 是 我 遇 過 最 難 應 付 的 人 。
+    
 # sent_id = charbased__29
 # text = 感 情 的 事 是 勉 強 不 來 的 。
+        gam2 ceng5 gai1 se7 gai1 bho5 biang3 miang2 kiang3 ai7.
 # sent_id = charbased__30
 # text = 我 們 兩 個 錯 身 而 過 ， 沒 有 遇 到 。
+
 # sent_id = charbased__31
 # text = 他 想 挽 回 他 情 人 的 心 。
+
 # sent_id = charbased__32
 # text = 他 在 裡 面 ， 你 喊 他 一 聲 。
+        i1 do6 doin2 bain7, le2 gio3 i1 ê7
 # sent_id = charbased__33
 # text = 真 抱 歉 ， 不 小 心 撞 到 你 。
+         mo3 i3 se3, m6 siao2 sim2 zuang6 dioh4 le2.
 # sent_id = charbased__34
 # text = 你 這 句 廢 話 ， 講 了 等 於 沒 講 。
+         le2 zi2 gu3 uê7, gah4 bho5 dan8 bên7 ion7.
 # sent_id = charbased__35
 # text = 年 輕 人 ， 你 得 聽 聽 老 人 家 的 忠 告 。
+         hao7(鲎) sên1 gian2, le2 dioh2 zai7 tian7 lao6 nang5 gai7 uê7
 # sent_id = charbased__36
 # text = 他 們 兩 個 人 平 常 最 喜 歡 鬥 嘴 。
 # sent_id = charbased__37
