@@ -75,7 +75,7 @@ Commencer à annoter les premières phrases
 - "xx的yy"一般“的”是mod, xx是“的”的comp:obj.
 - "来+verb"有两种关系：compound:svc和comp:obj。要根据“来”是不是个动作来判断。*但为什么来不是助动词呢？*
 - "怎么+verb"，“怎么”是verb的mod。
-- 
+- “把”字句是一个comp:obl。
 
 ## Issues :
 
