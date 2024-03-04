@@ -73,7 +73,7 @@
          kang1 kuê3 dioh4 do6 di7 go3 zoh4 ki2 ho2?
 # sent_id = charbased__26
 # text = 他 還 沒 有 說 完 ， 不 要 搶 話 。
-         i1 han2 bhue7 dan8 ho2, mai3 diam3 
+         i1 han2 bhue7 dan8 ho2, mai3 diam3 cion2 uê7.
 # sent_id = charbased__27
 # text = 你 這 麼 做 有 點 划 不 來 。
          
@@ -103,8 +103,10 @@
          hao7(鲎) sên1 gian2, le2 dioh2 zai7 tian7 lao6 nang5 gai7 uê7
 # sent_id = charbased__36
 # text = 他 們 兩 個 人 平 常 最 喜 歡 鬥 嘴 。
+        i1 nang5 no3 nang5 
 # sent_id = charbased__37
 # text = 想 不 到 他 們 兩 個 人 會 冤 家 變 親 家 。
+        sion6 m6 gao3 i1 nang5 no3 nang5 oi6 uang1 gê1 bin3 cêng1 gê1.
 # sent_id = charbased__38
 # text = 你 講 得 不 清 不 楚 ， 我 都 聽 不 懂 ！
 # sent_id = charbased__39
