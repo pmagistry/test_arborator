@@ -31,7 +31,7 @@
          gu3 uê7 tuang5 lai5 tuang5 ke3
 # sent_id = charbased__12
 # text = 他 幫 別 人 照 顧 小 孩 。
-         i1 sio1 hu6 bag8 nang7 zio3 gu3 nou5 gian2
+         i1 sio1 hu6 bag8 nang7 giao1 nou5 gian2
 # sent_id = charbased__13
 # text = 熱 臉 貼 人 冷 屁 股 。
 
