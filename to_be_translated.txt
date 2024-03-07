@@ -5,7 +5,7 @@
          zia2 hah4 dioh4 dan3
 # sent_id = charbased__3
 # text = 事 情 順 利 了 嗎 ？
-        Gian6 se7 oi3 sung6 li6 bhoi2
+        Gian6 se7 oi3 sung6 li6 bhoi6
 # sent_id = charbased__4
 # text = 他 的 度 量 很 狹 小 。
          i1 gai7 dou6 deng5 hoh4 oih8 soi3
