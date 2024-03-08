@@ -103,6 +103,19 @@ Commencer à annoter les premières phrases
 
   Q: 这个句子的主语是啥？
 
+# 07/03/2024
+
+## Remarques :
+
+- 172 “晚上坐在床边”，把“晚上”当作mod就好（而不是comp:obl@temp）。
+
+-
+
+## Issues : 
+
+- 177 我 沒 帶 雨 傘 ， 還 好 下 毛 毛 雨 而 已 。
+
+  Q : “还好”应该不是“下”的mod。我觉得”好“是后半句子的root，”下毛毛雨而已“是”还好“引导的一个从句。
 
   
 
