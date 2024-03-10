@@ -12,4 +12,7 @@ Comment :孝顺是 adj 还是 verb ？
 
 18/02/2024
 
-1 when translating mandrin to teochew, there are cases where a sound in teochew does not match any character on http://www.czyzd.com, such as particles.
+When translating mandrin to teochew, there are cases where a sound in teochew does not match any character on http://www.czyzd.com, such as particles. Eventually we decided to use romanisation as the right characters that correspond to teochew has been a long debate throughout the history and it is not easy at all to find. 
+
+07/03/2024
+we have discussed some translation in Teochew. For example, for the word "工作“ （work) in mandarin, we can say the exact same thing in teochew based on the teochew pronouncation of "工作", which is used probably more by the younger generations. The local saying which you can hear from older generations are kang1 kuê3.
