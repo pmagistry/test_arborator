@@ -86,6 +86,20 @@ y'a deux façons pour annoter "虽然". soit cc(conjonction de coordination) soi
     講煞(kóng-suah) en hokkien 说完(kóng-uan)
 
 
+# 06/03/2024
+
+
+32. 真歹勢，無張持共你挨著。
+
+    無張持(bô-tiunn-tî) en hokkien 不细腻[bô-sue⁵-li⁶]
+
+35. 個兩个平常時仔上愛答喙鼓。
+
+    平常時(pîng-siông-sî) en hokkien 平时(pîng-sî)
+
+36-46 一样
+
+代誌好勢矣未:  `矣未  discourse:sp`
 
 
 
