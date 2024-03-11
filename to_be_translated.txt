@@ -91,7 +91,7 @@
 
 # sent_id = charbased__32
 # text = 他 在 裡 面 ， 你 喊 他 一 聲 。
-        i1 do6 doin2 bain7, le2 gio3 i1 ê7
+        i1 do6 doin2 bain7, le2 gio3 i1 ê7.
 # sent_id = charbased__33
 # text = 真 抱 歉 ， 不 小 心 撞 到 你 。
          mo3 i3 se3, m6 siao2 sim2 zuang6 dioh4 le2.
@@ -103,14 +103,16 @@
          hao7(鲎) sên1 gian2, le2 dioh2 zai7 tian7 lao6 nang5 gai7 uê7
 # sent_id = charbased__36
 # text = 他 們 兩 個 人 平 常 最 喜 歡 鬥 嘴 。
-        i1 nang5 no3 nang5 
+        i1 nang5 no3 nang5 pêng5 si5 siang6 hi2 hua1 sio1 mên7
 # sent_id = charbased__37
 # text = 想 不 到 他 們 兩 個 人 會 冤 家 變 親 家 。
         sion6 m6 gao3 i1 nang5 no3 nang5 oi6 uang1 gê1 bin3 cêng1 gê1.
 # sent_id = charbased__38
 # text = 你 講 得 不 清 不 楚 ， 我 都 聽 不 懂 ！
+         le2 dan8 gao3 m6 cêng1 m6 co2, ua2 nong6 tian1 m6 dong2!
 # sent_id = charbased__39
 # text = 說 他 一 句 ， 就 這 樣 沒 完 沒 了 了 。
+         ziam6 dan8 i7 gu3, zu6 diam3 dan8 bho5 hiah4.
 # sent_id = charbased__40
 # text = 這 件 事 情 你 去 安 撫 他 們 一 下 。
 # sent_id = charbased__41
