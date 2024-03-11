@@ -112,7 +112,7 @@
          le2 dan8 gao3 m6 cêng1 m6 co2, ua2 nong6 tian1 m6 dong2!
 # sent_id = charbased__39
 # text = 說 他 一 句 ， 就 這 樣 沒 完 沒 了 了 。
-         ziam6 dan8 i7 gu3, zu6 diam3 dan8 bho5 hiah4.
+         ziam6 dan8 i7 gu3, zu6 go3 hêng5 zên1 bho5 hiah4.
 # sent_id = charbased__40
 # text = 這 件 事 情 你 去 安 撫 他 們 一 下 。
 # sent_id = charbased__41
