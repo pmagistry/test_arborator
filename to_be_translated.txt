@@ -43,10 +43,10 @@
 
 # sent_id = charbased__16
 # text = 這 回 我 豁 出 去 跟 他 拚 了 。
-        zi2 e7 ua2 sên1 si2 nong6 ain3 gah4 i1 bian3 ke3
+        zi2 e7 ua2 sên1 si2 nong6 ain3 gah4 i1 bian3 ke3.
 # sent_id = charbased__17
 # text = 做 長 輩 要 有 長 輩 的 樣 子 。
-
+         zo3 ziang3 buê3 dioh3 u6 zo3 ziang3 buê3 gai7 ion7.
 # sent_id = charbased__18
 # text = 等 東 西 很 難 等 到 ， 等 人 容 易 變 老 。
 
@@ -58,13 +58,13 @@
         nou5 gian2 nong3 liao3 rêng7 cên1 hung7
 # sent_id = charbased__21
 # text = 不 可 以 說 不 贏 人 家 就 要 翻 桌 子 。
-
+         mo3 dan8 dan8 m6 ian5 nang5 zu6 ain3 loi3 ceng5. 
 # sent_id = charbased__22
 # text = 事 情 怎 麼 會 變 成 這 種 情 況 ？
          gian3 se7 zo3 ni1 oi6 biang3 zo3 zê2.
 # sent_id = charbased__23
 # text = 這 次 的 機 會 是 碰 巧 。
-
+     
 # sent_id = charbased__24
 # text = 東 西 到 嘴 邊 了 才 掉 下 去 。 意 同 「 煮 熟 的 鴨 子 飛 了 。 」
          muêh5 gian6 gao2 cui3 bin1 kêh1 ga1 laoh8 ke3. i3 se3 si3 ze2 sêg8 gai7 ah4 kêh1 buê1 ke3.
