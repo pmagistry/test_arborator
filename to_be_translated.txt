@@ -13,7 +13,7 @@
 # text = 伴 娘 比 新 娘 美 。 比 喻 喧 賓 奪 主 。
 # sent_id = charbased__6
 # text = 這 陣 子 真 倒 楣 。
-       zê2 zam3 gian2 guê2 suê1
+        zi2 zam3 gian2 guê2 suê1
 # sent_id = charbased__7
 # text = 你 媽 媽 正 想 到 你 而 提 起 你 。
          nian2 ma5 ziam3 sion6 dioh3 le3 zu3 ti5 pu5 dioh4 le3
@@ -76,7 +76,7 @@
          i1 han2 bhue7 dan8 ho2, mai3 diam3 cion2 uê7.
 # sent_id = charbased__27
 # text = 你 這 麼 做 有 點 划 不 來 。
-         
+         wu hua 
 # sent_id = charbased__28
 # text = 他 是 我 遇 過 最 難 應 付 的 人 。
     
@@ -85,7 +85,7 @@
         gam2 ceng5 gai1 se7 gai1 bho5 biang3 miang2 kiang3 ai7.
 # sent_id = charbased__30
 # text = 我 們 兩 個 錯 身 而 過 ， 沒 有 遇 到 。
-
+        
 # sent_id = charbased__31
 # text = 他 想 挽 回 他 情 人 的 心 。
 
@@ -115,30 +115,43 @@
          ziam6 dan8 i7 gu3, zu6 go3 hêng5 zên1 bho5 hiah4.
 # sent_id = charbased__40
 # text = 這 件 事 情 你 去 安 撫 他 們 一 下 。
+        zi2 gian3 se7 le2 ke3 go2 lo5 i1 nang5 ê7.
 # sent_id = charbased__41
 # text = 你 不 要 掛 念 ， 我 會 趕 快 回 來 。
+
 # sent_id = charbased__42
 # text = 這 件 事 情 我 們 上 次 已 經 說 過 了 ！
+        zi2 gian3 se7 nang2 zion7 ce3 dan8 guê3 lao3.
 # sent_id = charbased__43
 # text = 管 他 的 ！ 叫 他 自 己 想 辦 法 。
+        guang2 i7 lê6! gio3 i7 gah4 di7 sion6 bain7 huag4.
 # sent_id = charbased__44
 # text = 自 由 的 生 活 是 人 人 都 想 要 過 的 。
+
 # sent_id = charbased__45
 # text = 他 們 搬 家 之 後 ， 我 們 就 比 較 少 去 拜 訪 。
+
 # sent_id = charbased__46
 # text = 做 人 要 知 進 退 ， 才 不 會 太 吃 虧 。
+        
 # sent_id = charbased__47
 # text = 到 時 看 情 形 ， 再 來 決 定 要 怎 麼 做 。
+        gao3 si5 zai3 toin2 dan8 zo3 ni5 muêh5.
 # sent_id = charbased__48
 # text = 大 哥 把 他 滿 腹 的 委 屈 講 給 我 聽 。
+         a   tang nong dan3 ua ting..
 # sent_id = charbased__49
 # text = 他 這 樣 挖 苦 你 ， 你 不 難 過 嗎 ？
+
 # sent_id = charbased__50
 # text = 你 是 真 不 知 道 ， 還 是 假 不 知 道 ？
+
 # sent_id = charbased__51
 # text = 我 還 沒 說 完 ， 你 先 別 插 嘴 好 嗎 ？
+
 # sent_id = charbased__52
 # text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
+         le3 
 # sent_id = charbased__53
 # text = 心 事 沒 有 人 知 道 ， 我 壓 抑 得 很 難 過 。
 # sent_id = charbased__54
