@@ -33,5 +33,11 @@ il n'y a qu'une prase de "仔" dans grew-match et c'est "牛仔褲", pas de suff
 
 taigi-3-2-22-這擺的機會是‘拄䢢’拄䢢
 
-charbased__24-東西到嘴邊了才掉下去
-pourquoi root est sur l'aux "到"
+
+
+*0311*
+taigi-3-2-8-伊閣咧"起無空"矣
+taigi-3-2-34-兩个平常時仔上愛"答喙鼓"
+
+
+
