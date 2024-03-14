@@ -139,7 +139,7 @@
         gao3 si5 zai3 toin2 dan8 zo3 ni5 muêh5.
 # sent_id = charbased__48
 # text = 大 哥 把 他 滿 腹 的 委 屈 講 給 我 聽 。
-         a   tang nong dan3 ua ting..
+         a1 dua1 hian1 tang3 17 hioh2 doi2 coh4 ui2 kug4 nong6 dan3 ua2 tian1.
 # sent_id = charbased__49
 # text = 他 這 樣 挖 苦 你 ， 你 不 難 過 嗎 ？
 
