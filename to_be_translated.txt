@@ -76,7 +76,7 @@
          i1 han2 bhue7 dan8 ho2, mai3 diam3 cion2 uê7.
 # sent_id = charbased__27
 # text = 你 這 麼 做 有 點 划 不 來 。
-         mao hua 
+         le2 
 # sent_id = charbased__28
 # text = 他 是 我 遇 過 最 難 應 付 的 人 。
     
