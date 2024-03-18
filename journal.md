@@ -43,3 +43,4 @@ la construction et distribution de 莫(mài) c'est comme 毋(m) 愛(ai), donc �
 Comportement du niveaux plus syntaxique
 taigi-3-2-34-兩个平常時仔上愛"答喙鼓"
 
+
