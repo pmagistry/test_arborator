@@ -76,7 +76,7 @@
          i1 han2 bhue7 dan8 ho2, mai3 diam3 cion2 uê7.
 # sent_id = charbased__27
 # text = 你 這 麼 做 有 點 划 不 來 。
-         wu hua 
+         mao hua 
 # sent_id = charbased__28
 # text = 他 是 我 遇 過 最 難 應 付 的 人 。
     
@@ -130,7 +130,7 @@
 
 # sent_id = charbased__45
 # text = 他 們 搬 家 之 後 ， 我 們 就 比 較 少 去 拜 訪 。
-
+         i7 nang6 buan1 cu3 ao6, uang2 zu6 liao2 zio2 ke3 zo6. 
 # sent_id = charbased__46
 # text = 做 人 要 知 進 退 ， 才 不 會 太 吃 虧 。
         
@@ -145,15 +145,16 @@
 
 # sent_id = charbased__50
 # text = 你 是 真 不 知 道 ， 還 是 假 不 知 道 ？
-
+         le3 si6 zêng1 m6 zai1, hah4 si6 gê2 m6 zai1 ?
 # sent_id = charbased__51
 # text = 我 還 沒 說 完 ， 你 先 別 插 嘴 好 嗎 ？
-
+         ua2 hah4 dan3 bhuê7 
 # sent_id = charbased__52
 # text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
-         le3 
+
 # sent_id = charbased__53
 # text = 心 事 沒 有 人 知 道 ， 我 壓 抑 得 很 難 過 。
+         
 # sent_id = charbased__54
 # text = 命 運 好 壞 是 註 定 好 的 嗎 ？ 這 很 難 說 。
 # sent_id = charbased__55
