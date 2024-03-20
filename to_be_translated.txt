@@ -148,7 +148,7 @@
          le3 si6 zêng1 m6 zai1, hah4 si6 gê2 m6 zai1 ?
 # sent_id = charbased__51
 # text = 我 還 沒 說 完 ， 你 先 別 插 嘴 好 嗎 ？
-         ua2 hah4 dan3 bhuê7 
+         ua2 hah4 dan3 bhuê7 dêg8, le2 cian2 mai3 cah4 cui3 hoh4 mên2?
 # sent_id = charbased__52
 # text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
 
@@ -159,12 +159,16 @@
 # text = 命 運 好 壞 是 註 定 好 的 嗎 ？ 這 很 難 說 。
 # sent_id = charbased__55
 # text = 他 很 有 福 氣 ， 兒 子 媳 婦 都 很 孝 順 。
+         
 # sent_id = charbased__56
 # text = 雖 然 你 們 是 好 朋 友 ， 也 不 能 太 隨 便 。
+         
 # sent_id = charbased__57
 # text = 他 喜 歡 擺 架 子 就 讓 他 擺 ， 別 理 他 。
+         
 # sent_id = charbased__58
 # text = 說 來 說 去 ， 總 歸 一 句 ， 是 你 錯 了 。
+         
 # sent_id = charbased__59
 # text = 大 家 幫 他 分 擔 一 點 ， 他 比 較 不 會 那 麼 累 。
 # sent_id = charbased__60
