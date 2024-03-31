@@ -86,3 +86,8 @@ Comme j'ai déjà fini les annotations de Siman, je vais désormais recueillir l
 À la fin de la réunion du jeudi, nous avons essayé de traiter ma question posée dans "Issues", la phrase 364 : "體 型 較 大 的 雞 會 比 其 他 的 雞 來 得 晚 發 聲 啼 叫". Malheureusement, "來 得 晚 發 聲 啼 叫" est trop difficile à analyser. Donc, nous avons décidé de le laisser à la semaine prochaine.
 
 Sinon, j'ai commencé à rédiger la page wiki. J'ai créé une section pour le mandarin et un autre pour le teochew. Dans le section du mandarin, j'ai ajouté des Issues intéressants vus dans l'historique, tels que l'annotation de chengyu, la relation comp:cleft, compound:svc, l'annotation de 才 et la liste des auxiliaires. Dans chque article, j'ai d'abord expliqué les règles d'annotation, puis les expliciter en s'appuyant sur un exemple. Si l'annotation d'une relation syntaxique réfère à plusieurs types de construction syntaxique, je vais expliquer les règles cas par cas. En tout cas, j'essaie de donner des explications simples, concises et claires.
+
+# Semaine 25/03
+Durant cette semaine, aucune réunion n'a eu lieu. J'ai fini la section wiki pour le mandarin. Maintenant, dans la section wiki, nous pouvons retrouver les questions épineuses, les constructions syntaxiques délicates que nous avons déjà rencontré depuis le début des annotations. Par exemple, il y a la relation de "compound:svc", la relation de "comp:cleft", les rôles et les dépendances syntaxiques de "才", "就" et "给", l'annotation des Chengyus ainsi qu'une liste d'auxiliaires du mandarin. 
+
+Dans chaque page, il y a à la fois la règle de l'annotation, son explication et l'exemple. J'espère que cela pourrait aider les autres.
