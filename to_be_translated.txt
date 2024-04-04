@@ -133,7 +133,7 @@
          i7 nang6 buan1 cu3 ao6, uang2 zu6 liao2 zio2 ke3 zo6. 
 # sent_id = charbased__46
 # text = 做 人 要 知 進 退 ， 才 不 會 太 吃 虧 。
-        
+        zoh4 nang5 dioh4 oi6 zai1 zêng3 to3, zian2 bhoi6 ka4 ngiag4 kui1 . 
 # sent_id = charbased__47
 # text = 到 時 看 情 形 ， 再 來 決 定 要 怎 麼 做 。
         gao3 si5 zai3 toin2 dan8 zo3 ni5 muêh5.
@@ -151,7 +151,7 @@
          ua2 hah4 dan3 bhuê7 dêg8, le2 cian2 mai3 cah4 cui3 hoh4 mên2 ?
 # sent_id = charbased__52
 # text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
-
+         le3 mo3 ziên1 gah4 ziang2 
 # sent_id = charbased__53
 # text = 心 事 沒 有 人 知 道 ， 我 壓 抑 得 很 難 過 。
          
@@ -190,6 +190,7 @@
          le2 mai3 ka4 oi6 , uang2 hioh2 lai6 gai7 se7 ua2 ga1 di7 oi6 lai5 cu2 li2 .
 # sent_id = charbased__67
 # text = 我 和 別 人 說 話 ， 你 別 在 一 旁 插 嘴 。
+         ua2 gah4 bag8 nang7 dan3 uê7 , le2 mai3 diam2 cah4 cui3 .
 # sent_id = charbased__68
 # text = 他 們 兩 姊 妹 無 依 無 靠 ， 這 樣 不 是 辦 法 。
 # sent_id = charbased__69
