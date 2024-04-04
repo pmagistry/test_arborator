@@ -37,7 +37,7 @@
 
 # sent_id = charbased__14
 # text = 我 已 經 輸 到 底 了 。
-       ua2 in2 gêng1 su1  toh6  liao3 
+       ua2 in2 gêng1 su1 toh6 liao3 .
 # sent_id = charbased__15
 # text = 那 些 帳 就 算 扯 平 了 。
 
@@ -55,13 +55,13 @@
         i1 nang5 no3 nang5 hag8 ho2 lao3
 # sent_id = charbased__20
 # text = 小 孩 子 都 比 較 怕 生 。
-        nou5 gian2 nong3 liao3 rêng7 cên1 hung7
+        nou5 gian2 nong3 liao3 rêng7 cên1 hung7 .
 # sent_id = charbased__21
 # text = 不 可 以 說 不 贏 人 家 就 要 翻 桌 子 。
          mo3 dan8 dan8 m6 ian5 nang5 zu6 ain3 loi3 ceng5. 
 # sent_id = charbased__22
 # text = 事 情 怎 麼 會 變 成 這 種 情 況 ？
-         gian3 se7 zo3 ni1 oi6 biang3 zo3 zê2.
+         gian3 se7 zo3 ni1 oi6 biang3 zo3 zio2 sên1 ?
 # sent_id = charbased__23
 # text = 這 次 的 機 會 是 碰 巧 。
      
@@ -70,19 +70,19 @@
          muêh5 gian6 gao2 cui3 bin1 kêh1 ga1 laoh8 ke3. i3 se3 si3 ze2 sêg8 gai7 ah4 kêh1 buê1 ke3.
 # sent_id = charbased__25
 # text = 工 作 要 從 哪 裡 著 手 才 好 ？
-         kang1 kuê3 dioh4 do6 di7 go3 zoh4 ki2 ho2?
+         kang1 kuê3 dioh4 do6 di7 go3 zoh4 ki2 ho2 ?
 # sent_id = charbased__26
 # text = 他 還 沒 有 說 完 ， 不 要 搶 話 。
-         i1 han2 bhue7 dan8 ho2, mai3 diam3 cion2 uê7.
+         i1 han2 bhue7 dan8 ho2, mai3 diam3 cion2 uê7 .
 # sent_id = charbased__27
 # text = 你 這 麼 做 有 點 划 不 來 。
-         le2 
+         le2 ziên1 zoh4 u3 dih4 gian2 bho5 hua5 .
 # sent_id = charbased__28
 # text = 他 是 我 遇 過 最 難 應 付 的 人 。
     
 # sent_id = charbased__29
 # text = 感 情 的 事 是 勉 強 不 來 的 。
-        gam2 ceng5 gai1 se7 gai1 bho5 biang3 miang2 kiang3 ai7.
+        gam2 ceng5 gai1 se7 gai1 bho5 biang3 miang2 kiang3 ai7 .
 # sent_id = charbased__30
 # text = 我 們 兩 個 錯 身 而 過 ， 沒 有 遇 到 。
         
@@ -139,7 +139,7 @@
         gao3 si5 zai3 toin2 dan8 zo3 ni5 muêh5.
 # sent_id = charbased__48
 # text = 大 哥 把 他 滿 腹 的 委 屈 講 給 我 聽 。
-         a1 dua1 hian1 tang3 17 hioh2 doi2 coh4 ui2 kug4 nong6 dan3 ua2 tian1.
+         a1 dua1 hian1 tang3 17 hioh2 doi2 coh4 ui2 kug4 nong6 dan3 ua2 tian1 .
 # sent_id = charbased__49
 # text = 他 這 樣 挖 苦 你 ， 你 不 難 過 嗎 ？
 
@@ -148,7 +148,7 @@
          le3 si6 zêng1 m6 zai1, hah4 si6 gê2 m6 zai1 ?
 # sent_id = charbased__51
 # text = 我 還 沒 說 完 ， 你 先 別 插 嘴 好 嗎 ？
-         ua2 hah4 dan3 bhuê7 dêg8, le2 cian2 mai3 cah4 cui3 hoh4 mên2?
+         ua2 hah4 dan3 bhuê7 dêg8, le2 cian2 mai3 cah4 cui3 hoh4 mên2 ?
 # sent_id = charbased__52
 # text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
 
@@ -168,11 +168,12 @@
          
 # sent_id = charbased__58
 # text = 說 來 說 去 ， 總 歸 一 句 ， 是 你 錯 了 。
-         
+         dan3 lai5 dans3 ke3 , zong2 gag3 zêg4 gu3 , gai7 le2 m6 dui3 .
 # sent_id = charbased__59
 # text = 大 家 幫 他 分 擔 一 點 ， 他 比 較 不 會 那 麼 累 。
 # sent_id = charbased__60
 # text = 我 替 他 煩 惱 得 要 死 ， 他 卻 不 當 一 回 事 。
+         nang2 li7 gai7 i7 huang5 lo2 si2 , i7 lê7 sion6 dioh4 bho5 mêh5 gai7 .
 # sent_id = charbased__61
 # text = 我 是 隨 便 說 說 的 ， 你 不 要 放 在 心 裡 。
 # sent_id = charbased__62
@@ -183,8 +184,10 @@
 # text = 他 很 會 製 造 笑 料 ， 弄 得 大 家 笑 哈 哈 。
 # sent_id = charbased__65
 # text = 阿 英 很 苦 命 ， 從 小 父 母 就 過 世 了 。
+         a1 êng1 ho2 kou2 mian7 ,  dang5 soi3 bê6 bho2 zu3 kê7 ke3 guê3 sêng3 ke3 . 
 # sent_id = charbased__66
 # text = 不 用 你 多 事 ， 我 家 的 事 情 我 自 己 會 處 理 。
+         le2 mai3 ka4 oi6 , uang2 hioh2 lai6 gai7 se7 ua2 ga1 di7 oi6 lai5 cu2 li2 .
 # sent_id = charbased__67
 # text = 我 和 別 人 說 話 ， 你 別 在 一 旁 插 嘴 。
 # sent_id = charbased__68
