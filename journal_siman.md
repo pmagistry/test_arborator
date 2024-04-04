@@ -24,30 +24,30 @@ we have discussed some translation in Teochew. For example, for the word "工作
 
 
 04/04/2024
-# sent_id = charbased__27
-# text = 你 這 麼 做 有 點 划 不 來 。
+sent_id = charbased__27
+text = 你 這 麼 做 有 點 划 不 來 。
          le2 ziên1 zoh4 u3 dih4 gian2 bho5 hua5 .
 
-# sent_id = charbased__58
-# text = 說 來 說 去 ， 總 歸 一 句 ， 是 你 錯 了 。
+sent_id = charbased__58
+text = 說 來 說 去 ， 總 歸 一 句 ， 是 你 錯 了 。
          dan3 lai5 dans3 ke3 , zong2 gag3 zêg4 gu3 , gai7 le2 m6 dui3 .
 
-# sent_id = charbased__65
-# text = 阿 英 很 苦 命 ， 從 小 父 母 就 過 世 了 。
+sent_id = charbased__65
+text = 阿 英 很 苦 命 ， 從 小 父 母 就 過 世 了 。
          a1 êng1 ho2 kou2 mian7 ,  dang5 soi3 bê6 bho2 zu3 kê7 ke3 guê3 sêng3 ke3 . 
 
-# sent_id = charbased__66
-# text = 不 用 你 多 事 ， 我 家 的 事 情 我 自 己 會 處 理 。
+sent_id = charbased__66
+text = 不 用 你 多 事 ， 我 家 的 事 情 我 自 己 會 處 理 。
          le2 mai3 ka4 oi6 , uang2 hioh2 lai6 gai7 se7 ua2 ga1 di7 oi6 lai5 cu2 li2. 
 
-# sent_id = charbased__60
-# text = 我 替 他 煩 惱 得 要 死 ， 他 卻 不 當 一 回 事 。
+sent_id = charbased__60
+text = 我 替 他 煩 惱 得 要 死 ， 他 卻 不 當 一 回 事 。
          nang2 li7 gai7 i7 huang5 lo2 si2 , i7 lê7 sion6 dioh4 bho5 mêh5 gai7 .
 
-# sent_id = charbased__46
-# text = 做 人 要 知 進 退 ， 才 不 會 太 吃 虧 。
+sent_id = charbased__46
+text = 做 人 要 知 進 退 ， 才 不 會 太 吃 虧 。
         zoh4 nang5 dioh4 oi6 zai1 zêng3 to3, zian2 bhoi6 ka4 ngiag4 kui1 . 
 
-# sent_id = charbased__67
-# text = 我 和 別 人 說 話 ， 你 別 在 一 旁 插 嘴 。
+sent_id = charbased__67
+text = 我 和 別 人 說 話 ， 你 別 在 一 旁 插 嘴 。
          ua2 gah4 bag8 nang7 dan3 uê7 , le2 mai3 diam2 cah4 cui3 .
