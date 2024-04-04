@@ -151,7 +151,7 @@
          ua2 hah4 dan3 bhuê7 dêg8, le2 cian2 mai3 cah4 cui3 hoh4 mên2 ?
 # sent_id = charbased__52
 # text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
-         le3 mo3 ziên1 gah4 ziang2 
+         le3 mo3 ziên1 gah4 ziang2 buê3 
 # sent_id = charbased__53
 # text = 心 事 沒 有 人 知 道 ， 我 壓 抑 得 很 難 過 。
          
