@@ -151,7 +151,7 @@
          ua2 hah4 dan3 bhuê7 dêg8, le2 cian2 mai3 cah4 cui3 hoh4 mên2 ?
 # sent_id = charbased__52
 # text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
-         le3 mo3 ziên1 gah4 ziang2 buê3 
+         le3 mo3 ziên1 diam2 du3 ziang2 buê3 .
 # sent_id = charbased__53
 # text = 心 事 沒 有 人 知 道 ， 我 壓 抑 得 很 難 過 。
          
@@ -159,7 +159,7 @@
 # text = 命 運 好 壞 是 註 定 好 的 嗎 ？ 這 很 難 說 。
 # sent_id = charbased__55
 # text = 他 很 有 福 氣 ， 兒 子 媳 婦 都 很 孝 順 。
-         
+         i7 ho2 u6 hog4 ki3 , nou5 gian2 sêng1 bu6 nong6 hog4 hao3 sung6 .
 # sent_id = charbased__56
 # text = 雖 然 你 們 是 好 朋 友 ， 也 不 能 太 隨 便 。
          
@@ -176,10 +176,13 @@
          nang2 li7 gai7 i7 huang5 lo2 si2 , i7 lê7 sion6 dioh4 bho5 mêh5 gai7 .
 # sent_id = charbased__61
 # text = 我 是 隨 便 說 說 的 ， 你 不 要 放 在 心 裡 。
+
 # sent_id = charbased__62
 # text = 你 不 要 看 不 起 我 ， 我 不 是 好 欺 負 的 。
+
 # sent_id = charbased__63
 # text = 他 那 個 人 就 是 沒 度 量 ， 見 不 得 人 家 好 。
+         i7 he3 gai7 nang7 zu3 si6 bho5 dou2 liang6 , gin3 m6 dioh3 bag8 nang7 ho2 .
 # sent_id = charbased__64
 # text = 他 很 會 製 造 笑 料 ， 弄 得 大 家 笑 哈 哈 。
 # sent_id = charbased__65
