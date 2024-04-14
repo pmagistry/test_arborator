@@ -198,8 +198,10 @@
 # text = 他 們 兩 姊 妹 無 依 無 靠 ， 這 樣 不 是 辦 法 。
 # sent_id = charbased__69
 # text = 這 件 事 的 前 因 後 果 ， 都 沒 人 知 道 。
+         zi2 gian3 se7 gai7 zain5 êng1 ao6 guê2 , bho5 nang5 oi6 zai7 .
 # sent_id = charbased__70
 # text = 年 輕 人 彼 此 喜 歡 就 好 ， 我 們 不 要 管 太 多 。
+         hao7 sên1 huê3 bi2 ce3 oi6 hah8 zu6 ho2 , nang2 mai3 guang2 ka4 zoi7 .
 # sent_id = charbased__71
 # text = 他 臨 終 的 時 候 ， 交 代 我 要 好 好 照 顧 你 。
 # sent_id = charbased__72
