@@ -69,3 +69,13 @@ text = 這 件 事 的 前 因 後 果 ， 都 沒 人 知 道 。
 
 text = 年 輕 人 彼 此 喜 歡 就 好 ， 我 們 不 要 管 太 多 。
          hao7 sên1 huê3 bi2 ce3 oi6 hah8  zu6 ho2 , nang2 mai3 guang2 ka4 zoi7 .
+
+18/04/2024
+
+sent_id = charbased__72
+text = 這 個 不 行 ， 那 個 不 可 以 ， 你 的 意 見 還 真 多 。
+         ziên1 mo3 , hiên1 mo3 , le2 gai7 i3 giang3 guê3 zoi7 . 
+
+sent_id = charbased__74
+text = 我 們 做 人 要 有 志 氣 ， 才 不 會 讓 人 看 不 起 。
+         nang2 zoh4 nang5 dioh3 u6 zi3 ki3 , zian2 bhoi6 kê3 nang5 toin2 m6 ki2 . 
