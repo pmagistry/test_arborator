@@ -55,18 +55,19 @@ text = 我 和 別 人 說 話 ， 你 別 在 一 旁 插 嘴 。
 
 15/04/2024
 
+sent_id = charbased__52
 text = 你 不 要 這 樣 和 長 輩 頂 嘴 。
          le3 mo3 ziên1 diam2 du3 ziang2 buê3 .
-
+sent_id = charbased__55
 text = 他 很 有 福 氣 ， 兒 子 媳 婦 都 很 孝 順 。
          i7 ho2 u6 hog4 ki3 , nou5 gian2 sêng1 bu6 nong6 hog4 hao3 sung6 .
-
+sent_id = charbased__4
 text = 他 那 個 人 就 是 沒 度 量 ， 見 不 得 人 家 好 。
          i7 he3 gai7 nang7 zu3 si6 bho5 dou2 liang6 , gin3 m6 dioh3 bag8 nang7 ho2 .
-
+sent_id = charbased__69
 text = 這 件 事 的 前 因 後 果 ， 都 沒 人 知 道 。
          zi2 gian3 se7 gai7 zain5 êng1 ao6 guê2 , bho5 nang5 oi6 zai7 .
-
+sent_id = charbased__35
 text = 年 輕 人 彼 此 喜 歡 就 好 ， 我 們 不 要 管 太 多 。
          hao7 sên1 huê3 bi2 ce3 oi6 hah8  zu6 ho2 , nang2 mai3 guang2 ka4 zoi7 .
 
