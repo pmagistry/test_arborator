@@ -19,9 +19,10 @@ we have discussed some translation in Teochew. For example, for the word "工作
 
 
 
+15/03/2024
+An interesting obersvation is that when translating this phrase:大 哥 把 他 滿 腹 的 委 屈 講 給 我 聽 , we would put a "啊“ to indicate "阿大哥”. 
 
-
-
+Another thing is that concerning oi .. bhoi , bhoi is considered as [negV] together, which is different from v..吗 in mandarin.
 
 04/04/2024
 
