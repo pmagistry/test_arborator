@@ -64,7 +64,7 @@
          gian3 se7 zo3 ni1 oi6 biang3 zo3 zio2 sên1 ?
 # sent_id = charbased__23
 # text = 這 次 的 機 會 是 碰 巧 。
-     
+         zi2 ce3 gai7 gi1 huê6 gai1 cou3 ka2 ai7 .
 # sent_id = charbased__24
 # text = 東 西 到 嘴 邊 了 才 掉 下 去 。 意 同 「 煮 熟 的 鴨 子 飛 了 。 」
          muêh5 gian6 gao2 cui3 bin1 kêh1 ga1 laoh8 ke3. i3 se3 si3 ze2 sêg8 gai7 ah4 kêh1 buê1 ke3.
