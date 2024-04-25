@@ -79,3 +79,9 @@ text = 這 個 不 行 ， 那 個 不 可 以 ， 你 的 意 見 還 真 多 �
 sent_id = charbased__74
 text = 我 們 做 人 要 有 志 氣 ， 才 不 會 讓 人 看 不 起 。
          nang2 zoh4 nang5 dioh3 u6 zi3 ki3 , zian2 bhoi6 kê3 nang5 toin2 m6 ki2 . 
+sent_id = charbased__76
+text = 你 幫 我 看 一 下 行 李 ， 我 馬 上 就 回 來 。
+         le2 sio1 hu6 ua2 toin2 e7 gian5 li2 , ua2 ho2 mên2 zu6 deng2 lai5 .
+sent_id = charbased__23
+text = 這 次 的 機 會 是 碰 巧 。
+         zi2 ce3 gai7 gi1 huê6 gai1 cou3 ka2 ai7 .
