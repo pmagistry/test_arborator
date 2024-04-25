@@ -217,7 +217,7 @@
 
 # sent_id = charbased__76
 # text = 你 幫 我 看 一 下 行 李 ， 我 馬 上 就 回 來 。
-         le2 sio1 hu6 ua2 toin2 e7 gian5 li2 , ua2 ho2 mên2 zu6 deng2 lai5 .
+         le2 sio1 hu6 ua2 toin2 e7 gian5 li2 , ua2 ho2 mên2 zu6 deng2(返） lai5 .
 # sent_id = charbased__77
 # text = 做 人 要 實 在 ， 才 能 在 社 會 上 立 足 。
 # sent_id = charbased__78
