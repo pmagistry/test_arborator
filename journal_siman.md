@@ -24,6 +24,7 @@ we have discussed some translation in Teochew. For example, for the word "工作
 
 
 04/04/2024
+
 sent_id = charbased__27
 text = 你 這 麼 做 有 點 划 不 來 。
          le2 ziên1 zoh4 u3 dih4 gian2 bho5 hua5 .
