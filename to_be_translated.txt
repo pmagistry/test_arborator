@@ -222,6 +222,7 @@
 # text = 做 人 要 實 在 ， 才 能 在 社 會 上 立 足 。
 # sent_id = charbased__78
 # text = 他 那 麼 忙 ， 這 點 小 事 去 麻 煩 他 ， 這 樣 好 嗎 ？
+         i1 hioh2 m6 ain5 , dih4 gian2 se7 zu3 ke3 i7 , ziên1 hoh4 
 # sent_id = charbased__79
 # text = 他 不 喜 歡 你 ， 你 若 去 求 他 ， 一 定 會 碰 一 鼻 子 灰 。
 # sent_id = charbased__80
