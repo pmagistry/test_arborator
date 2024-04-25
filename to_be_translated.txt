@@ -214,8 +214,10 @@
          nang2 zoh4 nang5 dioh3 u6 zi3 ki3 , zian2 bhoi6 kê3 nang5 toin2 m6 ki2 . 
 # sent_id = charbased__75
 # text = 他 的 人 生 很 坎 坷 ， 真 是 說 來 話 長 啊 ！
+
 # sent_id = charbased__76
 # text = 你 幫 我 看 一 下 行 李 ， 我 馬 上 就 回 來 。
+         le2 sio1 hu6 ua2 toin2 e7 gian5 li2 , ua2 ho2 mên2 zu6 deng2 lai5 .
 # sent_id = charbased__77
 # text = 做 人 要 實 在 ， 才 能 在 社 會 上 立 足 。
 # sent_id = charbased__78
