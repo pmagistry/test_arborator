@@ -106,3 +106,8 @@ Lundi on a eu la réunion avec la présence de Mme. Wang et Mme. Lin. En cours d
 La réunion du jeudi, nous continuions de traiter les questions dans "Issues". Nous avons relevé 3 cas différents pour une construction syntaxique comme : verbe1 + noun + verbe2. Le premier est des verbe1 comme "把", "让", qui ne prennent pas d'aspect et dont le verbe2 ne prend pas d'auxiliaire. Le deuxième cas est encore un mythe parce que l'on ne sait pas s'il existe vraiment. Ce sont des verbe1 qui peuvent prendre l'aspect mais leurs verbe2 ne prennent pas d'auxiliaire. Le troisième cas est des verbe1 comme "用", qui peuvent prendre l'aspect, leurs verbe2 peuvent aussi prendre l'auxiliaire. Les verbes "帮" et "请" sont intéressants parce qu'ils rentrent bien dans le deuxième cas mais nous ne sommes pas sûrs si cela est dû à une imposition sémantique des verbes.
 
 Pour après, moi et Weiqi se mettront à établir les wikis de toutes les dépendances syntaxiques utilisées dans le corpus du mandarin.
+
+# Semaine 22/04
+Nous n'avons pas eu de réunion ce lundi. Pendant la réunion du jeudi, j'ai réarrangé l'organisation du wiki de notre dépôt Github pour que ce soit sous forme d'arbre. Comme j'ai déjà séparé des tâches avec Weiqi, j'ai commencé à faire les wikis pour 13 dépendances syntaxiques en mandarin. 
+
+Chaque page de wiki de dépendance syntaxique est consitutée de 3 parties, une partie de la définition de la dépendance, une partie de son utilisation et une partie d'exemples. Éventuellement, les dépendances similaires s'y font écho via des hyperliens. Si une dépendance a plusieurs fonctionnalités et applications, elle sera traitée dans chaque cas différent.
