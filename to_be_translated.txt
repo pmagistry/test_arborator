@@ -127,7 +127,7 @@
         guang2 i7 lê6! gio3 i7 gah4 di7 sion6 bain7 huag4.
 # sent_id = charbased__44
 # text = 自 由 的 生 活 是 人 人 都 想 要 過 的 。
-
+         ze6 iu5 gai1 sên1 uah8 gai1 nang5 nang5 nong2 ain3 guê3 ai7 .
 # sent_id = charbased__45
 # text = 他 們 搬 家 之 後 ， 我 們 就 比 較 少 去 拜 訪 。
          i7 nang6 buan1 cu3 ao6, uang2 zu6 liao2 zio2 ke3 zo6. 
@@ -142,7 +142,7 @@
          a1 dua1 hian1 tang3 17 hioh2 doi2 coh4 ui2 kug4 nong6 dan3 ua2 tian1 .
 # sent_id = charbased__49
 # text = 他 這 樣 挖 苦 你 ， 你 不 難 過 嗎 ？
-
+         i7 ziên1 hong3 (讽）ci3 (刺）le3 , le3 bhoi6 gang1 (艰） kou2 （苦） a6 ?
 # sent_id = charbased__50
 # text = 你 是 真 不 知 道 ， 還 是 假 不 知 道 ？
          le3 si6 zêng1 m6 zai1, hah4 si6 gê2 m6 zai1 ?
