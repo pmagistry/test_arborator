@@ -11,6 +11,7 @@
          i1 gai7 dou6 deng5 hoh4 oih8 soi3
 # sent_id = charbased__5
 # text = 伴 娘 比 新 娘 美 。 比 喻 喧 賓 奪 主 。
+         
 # sent_id = charbased__6
 # text = 這 陣 子 真 倒 楣 。
         zi2 zam3 gian2 guê2 suê1 . 
@@ -58,7 +59,7 @@
         nou5 gian2 nong3 liao3 rêng7 cên1 hung7 .
 # sent_id = charbased__21
 # text = 不 可 以 說 不 贏 人 家 就 要 翻 桌 子 。
-         mo3 dan8 dan8 m6 ian5 nang5 zu6 ain3 loi3 ceng5. 
+         mo2(孬) dan8 dan8 m6 ian5 nang5 zu6 ain3 iaoh4 ceng5. 
 # sent_id = charbased__22
 # text = 事 情 怎 麼 會 變 成 這 種 情 況 ？
          gian3 se7 zo3 ni1 oi6 biang3 zo3 zio2 sên1 ?
@@ -79,7 +80,7 @@
          le2 ziên1 zoh4 u3 dih4 gian2 bho5 hua5 .
 # sent_id = charbased__28
 # text = 他 是 我 遇 過 最 難 應 付 的 人 。
-         il1 gai1 ua2 ngo6 gin3 siang6 oh8 eng3 hu3 gai1 nang7 .
+         i1 gai1 ua2 ngo6 gin3 siang6 oh8 eng3 hu3 gai1 nang7 .
 # sent_id = charbased__29
 # text = 感 情 的 事 是 勉 強 不 來 的 。
         gam2 ceng5 gai1 se7 gai1 bho5 biang3 miang2 kiang3 ai7 .
@@ -88,10 +89,10 @@
         uang2 no3 nang5 cag4 seng1 re1 gue3, bho5 ngo6 dioh4 . 
 # sent_id = charbased__31
 # text = 他 想 挽 回 他 情 人 的 心 。
-         il7 sion6 ain3 mang3 hue5 il7 ceng5 reng5 . 
+         i1 sion6 ain3 mang3 hue5 il7 ceng5 reng5 . 
 # sent_id = charbased__32
 # text = 他 在 裡 面 ， 你 喊 他 一 聲 。
-        i1 do6 doin2 bain7, le2 gio3 i1 ê7 .
+         i1 do6 doin2 bain7, le2 gio3 i1 ê7 .
 # sent_id = charbased__33
 # text = 真 抱 歉 ， 不 小 心 撞 到 你 。
          mo3 i3 se3, m6 siao2 sim2 zuang6 dioh4 le2 .
@@ -165,7 +166,7 @@
          sui1 riang5 neng2 (恁) gai7 ho2 peng5 iu2, ia7 mo2 ka2 sui5 biang6 .
 # sent_id = charbased__57
 # text = 他 喜 歡 擺 架 子 就 讓 他 擺 ， 別 理 他 。
-         i7 ain3 bai2 zu6 kê3 i7 bai2 , mai3 li2 i7 .
+         i1 ain3 bai2 zu6 kê3 i7 bai2 , mai3 cai2 (睬) i1 .
 # sent_id = charbased__58
 # text = 說 來 說 去 ， 總 歸 一 句 ， 是 你 錯 了 。
          dan3 lai5 dans3 ke3 , zong2 gag3 zêg4 gu3 , gai7 le2 m6 dui3 .
