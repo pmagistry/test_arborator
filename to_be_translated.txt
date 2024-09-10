@@ -2,16 +2,16 @@
 # text = H u a g i
 # sent_id = charbased__2
 # text = 這 還 用 說 ？
-         zia2 hah4 dioh4 dan3
+         zia2 hah4 dioh4 dan3 .
 # sent_id = charbased__3
 # text = 事 情 順 利 了 嗎 ？
-        Gian6 se7 oi3 sung6 li6 bhoi6
+        Gian6 se7 oi3 sung6 li6 bhoi6 .
 # sent_id = charbased__4
 # text = 他 的 度 量 很 狹 小 。
-         i1 gai7 dou6 deng5 hoh4 oih8 soi3
+         i1 gai7 dou6 deng5 hoh4 oih8 soi3 .
 # sent_id = charbased__5
 # text = 伴 娘 比 新 娘 美 。 比 喻 喧 賓 奪 主 。
-         
+         puan6 nio5 bi2 sêng7 nio5 ngia5 (雅) . bi2 zo3 suang1 bian1 doh8 zu2 .
 # sent_id = charbased__6
 # text = 這 陣 子 真 倒 楣 。
         zi2 zam3 gian2 guê2 suê1 . 
@@ -23,10 +23,10 @@
         zi2 e7 gian3 se7 zu3 oh8 muêh8 lao3 .
 # sent_id = charbased__9
 # text = 他 又 在 找 碴 了 。
-        i1 iu6 do6 cuê3 uê7
+        i1 iu6 do6 cuê3 uê7 .
 # sent_id = charbased__10
 # text = 他 是 我 們 同 宗 的 。
-         
+         i1 gah4 uang2 (阮) gai7 dang5 gai7 sên (姓) .
 # sent_id = charbased__11
 # text = 一 句 話 傳 來 傳 去 。
          gu3 uê7 tuang5 lai5 tuang5 ke3
