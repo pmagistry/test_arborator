@@ -118,7 +118,7 @@
         zi2 gian3 se7 le2 ke3 go2 lo5 i1 nang5 ê7.
 # sent_id = charbased__41
 # text = 你 不 要 掛 念 ， 我 會 趕 快 回 來 。
-         le2 meng2 kua3 niam6, ua2 oi6 zeng6 kuai3 deng2（返）lai5 .
+         le2 mêng2 kua3 niam6, ua2 oi6 zeng6 kuai3 deng2（返）lai5 .
 # sent_id = charbased__42
 # text = 這 件 事 情 我 們 上 次 已 經 說 過 了 ！
         zi2 gian3 se7 nang2 zion7 ce3 dan8 guê3 lao3.
