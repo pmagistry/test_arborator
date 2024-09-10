@@ -26,7 +26,7 @@
         i1 iu6 do6 cuê3 uê7 .
 # sent_id = charbased__10
 # text = 他 是 我 們 同 宗 的 。
-         i1 gah4 uang2 (阮) gai7 dang5 gai7 sên (姓) .
+         i1 gah4 uang2 (阮) gai7 dang5 gai7 sên (姓) si6 (氏).
 # sent_id = charbased__11
 # text = 一 句 話 傳 來 傳 去 。
          gu3 uê7 tuang5 lai5 tuang5 ke3
