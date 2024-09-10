@@ -35,7 +35,7 @@
          i1 sio1 hu6 bag8 nang7 giao1 nou5 gian2
 # sent_id = charbased__13
 # text = 熱 臉 貼 人 冷 屁 股 。
-         
+         sio1 sio1 mêng7 u3 nang5 gai7 cêng3 ga1 ceng1 . 
 # sent_id = charbased__14
 # text = 我 已 經 輸 到 底 了 。
        ua2 in2 gêng1 su1 toh6 liao3 .
