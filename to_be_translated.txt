@@ -165,7 +165,7 @@
          sui1 riang5 neng2 (恁) gai7 ho2 peng5 iu2, ia7 mo2 ka2 sui5 biang6 .
 # sent_id = charbased__57
 # text = 他 喜 歡 擺 架 子 就 讓 他 擺 ， 別 理 他 。
-         
+         i7 ain3 bai2 zu6 kê3 i7 bai2 , mai3 li2 i7 .
 # sent_id = charbased__58
 # text = 說 來 說 去 ， 總 歸 一 句 ， 是 你 錯 了 。
          dan3 lai5 dans3 ke3 , zong2 gag3 zêg4 gu3 , gai7 le2 m6 dui3 .
